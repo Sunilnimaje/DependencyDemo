@@ -1,8 +1,7 @@
 package com.example.dependencydemo2
 
 open class MathsActivity {
-/*    var a = 0
-    var b = 0
+
 
 //    init {
 //        this.a = a
