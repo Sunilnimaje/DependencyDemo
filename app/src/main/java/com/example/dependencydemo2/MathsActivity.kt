@@ -2,13 +2,6 @@ package com.example.dependencydemo2
 
 open class MathsActivity {
 
-
-//    init {
-//        this.a = a
-//        this.b = b
-//    }*/
-
-
     fun Addition(a: Int, b: Int): Int {
         return a + b
     }
@@ -24,6 +17,5 @@ open class MathsActivity {
     fun Divition(a: Int, b: Int): Float {
         return (a / b).toFloat()
     }
-
 
 }
